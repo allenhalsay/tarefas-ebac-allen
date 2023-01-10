@@ -1,0 +1,20 @@
+Algoritmo (Hora de Acordar)
+1 - Abrir os olhos
+2 - Sentar na cama
+3 - Levantar da cama
+4 - Caminhar até o banheiro
+5 - Abrir a porta do banheiro
+6 - Caminhar até a pia
+7 - Abrir a torneira da pia
+8 - Jogar água no rosto
+9 - Pegar a escova
+10 - Pegar o creme dental
+11 - Colocar o creme de dental na escova
+12 - Molhar o creme dental
+13 - Escovar os dentes
+14 - Enxaguar a boca
+15 - Guardar o creme dental
+16 - Guardar a escova
+17 - Banhar
+18 - Tomar café
+... 

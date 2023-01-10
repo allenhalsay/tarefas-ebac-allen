@@ -1,0 +1,4 @@
+Programação procedural -> É uma programação onde o código fica dentro de um arquivo que realiza tudo que o que é programado. 
+
+Programação Orientada a Objetos -> É uma programação onde o projeto tem vários arquivos e cada arquivo tem um objetivo 
+específico, onde a junção de todos eles faz com que o programa funcione corretamente.
