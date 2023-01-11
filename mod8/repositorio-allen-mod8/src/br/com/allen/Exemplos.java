@@ -8,6 +8,7 @@ package br.com.allen;
 public class Exemplos {
 	
 	//Mais usados
+	//Variável de escopo de classe
 	private int codigo=1;
 	private long codigoMaior=1231980;
 	private boolean status=false;
@@ -20,13 +21,22 @@ public class Exemplos {
 	private byte bi;
 	
 	//Métodos
-	public String retornaTexto() {
+	public String retornarTexto() {
+		this.codigo=0;
 		return "texto";
 	}
-	public int retornaInteiro() {
-		return 10;
+	
+	//Variável de escopo de método.
+	public int retornarInteiro() {
+		int val = 10;
+		String texto="Allen Halsay";
+		return val;
 	}
-	public long retornaLong(long num) {
+	public long retornarLong(long num) {
 		return num;
+	}
+	//Construtor
+	public Exemplos() {
+		
 	}
 }
